@@ -1,0 +1,70 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\lferg\Castone_GA8ED\Power_mux_2_testbench.asc
+Start Time: Thu Mar 19 17:54:06 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Gmin = 100000
+Gmin = 10737.4
+Gmin = 1152.92
+Gmin = 123.794
+Gmin = 13.2923
+Gmin = 1.42725
+Gmin = 0.15325
+Gmin = 0.016455
+Gmin = 0.00176685
+Gmin = 0.000189714
+Gmin = 2.03704e-05
+Gmin = 2.18725e-06
+Gmin = 2.34854e-07
+Gmin = 2.52173e-08
+Gmin = 2.70769e-09
+Gmin = 2.90735e-10
+Gmin = 3.12175e-11
+Gmin = 3.35195e-12
+Gmin = 3.59913e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.359987 to 0.359987
+Heightened Def Con from 0.388624 to 0.388624
+Heightened Def Con from 0.42349 to 0.42349
+Heightened Def Con from 0.431516 to 0.431516
+Heightened Def Con from 0.432538 to 0.432538
+Heightened Def Con from 0.457391 to 0.457391
+Heightened Def Con from 0.461355 to 0.461355
+Heightened Def Con from 2.56785 to 2.56785
+Heightened Def Con from 2.57322 to 2.57322
+Heightened Def Con from 2.72123 to 2.72123
+Heightened Def Con from 2.74443 to 2.74443
+Heightened Def Con from 2.74779 to 2.74779
+Heightened Def Con from 2.7731 to 2.7731
+Heightened Def Con from 2.77865 to 2.77865
+Heightened Def Con from 2.77939 to 2.77939
+Heightened Def Con from 2.78215 to 2.78215
+Heightened Def Con from 2.78225 to 2.78225
+Heightened Def Con from 2.78342 to 2.78342
+Heightened Def Con from 2.78363 to 2.78363
+Heightened Def Con from 2.78416 to 2.78416
+Heightened Def Con from 2.78438 to 2.78438
+Heightened Def Con from 2.78502 to 2.78502
+Heightened Def Con from 2.78986 to 2.78986
+Heightened Def Con from 2.79277 to 2.79277
+Heightened Def Con from 2.79319 to 2.79319
+Heightened Def Con from 2.7934 to 2.7934
+Heightened Def Con from 2.79711 to 2.79711
+Heightened Def Con from 2.79752 to 2.79752
+Heightened Def Con from 2.79763 to 2.79763
+Heightened Def Con from 2.80702 to 2.80702
+Heightened Def Con from 2.81043 to 2.81043
+Heightened Def Con from 2.81339 to 2.81339
+Total elapsed time: 23.570 seconds.
+
